@@ -35,3 +35,4 @@ lib/
 ├── screens/           # Contém as telas do app (login, personalização, etc.)
 ├── services/          # Serviços que integram o app com APIs e AWS
 └── widgets/           # Componentes visuais reutilizáveis
+Atualização: Transição para Flutter Nativo completa
