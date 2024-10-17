@@ -1,23 +1,16 @@
 name: skdv
-description: Projeto de aplicativo de e-commerce para cuidados com a pele, desenvolvido com Flutter e integrado com AWS.
+description: Um projeto Flutter.
 
 version: 1.0.0+1
 
 environment:
-  sdk: ">=2.12.0 <4.0.0"
+  sdk: ">=2.17.0 <3.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
-
-  # Adiciona fontes Google
-  google_fonts: ^2.1.0
-
-  # Ícones estilo iOS
-  cupertino_icons: ^1.0.8
-
-  # Dependências para o desenvolvimento
-  carousel_slider: ^4.0.0
+  google_fonts: ^6.2.1
+  # Outras dependências
 
 dev_dependencies:
   flutter_test:
@@ -27,18 +20,17 @@ flutter:
   uses-material-design: true
 
   assets:
-    - assets/KITR.webp
-    - assets/LOCAO_RAINHA2.webp
-    - assets/LOCAO_RAINHA.webp
-    - assets/LOCAO_RAINHA3.webp
-    - assets/MaSCARARAINHA2.webp
-    - assets/MaSCARARAINHA3.webp
-    - assets/MASCARARAINHA.webp
-    - assets/POCAO_RAINHA_DIURNA.webp
-    - assets/POCAO_RAINHA_DIURNA2.webp
-    - assets/POCAO_RAINHA_NOTURNA.webp
-    - assets/POCAO_RAINHA_NOTURNA2.webp
-    - assets/SABONETE_FACIAL_RAINHA.webp
-    - assets/SABONETE_FACIAL_RAINHA2.webp
-    - assets/SABONETE_FACIAL_RAINHA3.webp
-
+ #   - assets/kit_rainha_revolution.webp
+ #   - assets/locao_rainha2.webp
+ #   - assets/locao_rainha.webp
+ #   - assets/locao_rainha3.webp
+ #   - assets/mascara_rainha_2.webp
+ #   - assets/mascararainha3.webp
+ #   - assets/mascararainha.webp
+ #   - assets/pocao_rainha_diurna.webp
+ #   - assets/pocao_rainha_diurna2.webp
+ #   - assets/pocao_rainha_noturna.webp
+ #   - assets/pocao_rainha_noturna2.webp
+ #   - assets/sabonete_facial_rainha.webp
+ #   - assets/sabonete_facial_rainha2.webp
+ #   - assets/sabonete_facial_rainha3.webp
